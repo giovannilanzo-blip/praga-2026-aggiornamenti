@@ -5,13 +5,16 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-19T17:05:00Z",
-  "ultimoControllo": "2026-11-19T17:05:00Z",
-  "controlli": 1,
+  "generato": "2026-11-19T17:07:54Z",
+  "ultimoControllo": "2026-11-19T17:07:54Z",
+  "controlli": 2,
   "esito": "parziale",
-  "messaggio": "Controllo del 19 novembre: nessuna chiusura, deviazione o sciopero annunciato per il 5-9 dicembre trovato nelle fonti consultate. Le pagine PID di dicembre non sono ancora pubblicate: ricontrollare nei giorni prima della partenza.",
+  "messaggio": "Controllo del 19 novembre (secondo): su pid.cz le limitazioni dei tram del 1-8 dicembre non toccano le tappe del 5-9 dicembre (solo Červený Vrch - Dědina sabato 5 di giorno e Na Knížecí - Smíchovské nádraží nella notte 7-8). Nessuno sciopero annunciato. Restano da confermare orari di zoo, planetario e Castello: ricontrollare nei giorni prima della partenza.",
   "novita": [],
-  "verificatoIl": {},
+  "verificatoIl": {
+    "generale": "2026-11-19T17:07:54Z",
+    "t-vytopna": "2026-11-19T17:07:54Z"
+  },
   "domaniDaControllare": {
     "2026-12-05": [
       {
