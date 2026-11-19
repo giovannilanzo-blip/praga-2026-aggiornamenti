@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "viaggio": { "da": "2026-12-05", "a": "2026-12-09", "citta": "Praga" },
+  "generato": "2026-11-19T16:49:38Z",
+  "ultimoControllo": "2026-11-19T16:49:38Z",
+  "controlli": 0,
+  "esito": "ok",
+  "messaggio": "File iniziale: le verifiche programmate inizieranno con il prossimo controllo.",
+  "novita": [],
+  "verificatoIl": {},
+  "domaniDaControllare": {}
+}
