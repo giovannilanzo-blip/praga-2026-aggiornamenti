@@ -5,12 +5,27 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-19T17:07:54Z",
+  "generato": "2026-11-19T19:18:10Z",
   "ultimoControllo": "2026-11-19T17:07:54Z",
   "controlli": 2,
   "esito": "parziale",
   "messaggio": "Controllo del 19 novembre (secondo): su pid.cz le limitazioni dei tram del 1-8 dicembre non toccano le tappe del 5-9 dicembre (solo Červený Vrch - Dědina sabato 5 di giorno e Na Knížecí - Smíchovské nádraží nella notte 7-8). Nessuno sciopero annunciato. Restano da confermare orari di zoo, planetario e Castello: ricontrollare nei giorni prima della partenza.",
-  "novita": [],
+  "novita": [
+    {
+      "id": "agg-20261119-prova",
+      "pubblicata": "2026-11-19T19:18:10Z",
+      "gravita": "bassa",
+      "giorno": null,
+      "riguarda": {
+        "tipo": "generale",
+        "id": "generale"
+      },
+      "titolo": "Prova del sistema di aggiornamenti",
+      "testo": "Messaggio di prova: se compare nell'app, gli aggiornamenti di viaggio arrivano correttamente. Con questa prova è stato aggiornato anche il cambio del convertitore (1 € = 24,43 CZK, cambio ufficiale della Banca nazionale ceca del 19 novembre).",
+      "fonte": "https://www.cnb.cz/",
+      "superata": false
+    }
+  ],
   "verificatoIl": {
     "generale": "2026-11-19T17:07:54Z",
     "t-vytopna": "2026-11-19T17:07:54Z"
@@ -38,5 +53,10 @@
         "testo": "Confermare che i tram 22 e 23 per il Castello circolino sul percorso regolare (lavori a Hradčany conclusi in estate)."
       }
     ]
+  },
+  "cambio": {
+    "eurCzk": 24.43,
+    "data": "2026-11-19",
+    "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
   }
 }

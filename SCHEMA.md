@@ -25,6 +25,7 @@ File pubblico letto dall'app quando il telefono ha internet. Contiene solo infor
       "superata": false
     }
   ],
+  "cambio": { "eurCzk": 24.43, "data": "2026-12-03", "fonte": "https://www.cnb.cz/..." },
   "verificatoIl": { "d7-salita": "2026-12-03T06:05:00Z" },
   "domaniDaControllare": {
     "2026-12-07": [ { "id": "d7-castello", "testo": "Cambio della guardia alle 12:00: confermare l'orario sul sito del Castello." } ]
@@ -35,3 +36,4 @@ File pubblico letto dall'app quando il telefono ha internet. Contiene solo infor
 - `riguarda.id` usa gli identificativi delle tappe (`d6-zoo`, `d7-salita`…), dei luoghi del catalogo (`cat-…`) o dei biglietti dell'app; `generale` per avvisi che valgono per tutto il viaggio (scioperi, meteo).
 - `patch` è facoltativo: se presente, l'app propone di applicare la modifica al campo indicato della tappa; l'utente decide sempre.
 - Le voci non si cancellano: quando non valgono più, `"superata": true`.
+- `cambio` (facoltativo): cambio euro/corona usato dal convertitore dell'app, che non è modificabile a mano. Valore accettato tra 10 e 60; `data` è il giorno del cambio ufficiale.
