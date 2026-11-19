@@ -1,12 +1,39 @@
 {
   "schema": 1,
-  "viaggio": { "da": "2026-12-05", "a": "2026-12-09", "citta": "Praga" },
-  "generato": "2026-11-19T16:49:38Z",
-  "ultimoControllo": "2026-11-19T16:49:38Z",
-  "controlli": 0,
-  "esito": "ok",
-  "messaggio": "File iniziale: le verifiche programmate inizieranno con il prossimo controllo.",
+  "viaggio": {
+    "da": "2026-12-05",
+    "a": "2026-12-09",
+    "citta": "Praga"
+  },
+  "generato": "2026-11-19T17:05:00Z",
+  "ultimoControllo": "2026-11-19T17:05:00Z",
+  "controlli": 1,
+  "esito": "parziale",
+  "messaggio": "Controllo del 19 novembre: nessuna chiusura, deviazione o sciopero annunciato per il 5-9 dicembre trovato nelle fonti consultate. Le pagine PID di dicembre non sono ancora pubblicate: ricontrollare nei giorni prima della partenza.",
   "novita": [],
   "verificatoIl": {},
-  "domaniDaControllare": {}
+  "domaniDaControllare": {
+    "2026-12-05": [
+      {
+        "id": "generale",
+        "testo": "Verificare su pid.cz e idos.cz le limitazioni dei tram di dicembre 2026 (pagina mensile non ancora pubblicata) e l'assenza di scioperi."
+      }
+    ],
+    "2026-12-06": [
+      {
+        "id": "t-zoo",
+        "testo": "Zoo Praha: orario invernale abituale 9:00-16:00, confermare sul sito ufficiale."
+      },
+      {
+        "id": "t-planetario",
+        "testo": "Planetario: confermare il programma «To Mars!» delle 16:30 e la disponibilità dei biglietti su planetum.cz."
+      }
+    ],
+    "2026-12-07": [
+      {
+        "id": "d7-salita",
+        "testo": "Confermare che i tram 22 e 23 per il Castello circolino sul percorso regolare (lavori a Hradčany conclusi in estate)."
+      }
+    ]
+  }
 }
