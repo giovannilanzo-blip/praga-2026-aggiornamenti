@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-20T11:10:00Z",
-  "ultimoControllo": "2026-11-20T11:10:00Z",
-  "controlli": 4,
+  "generato": "2026-11-20T17:10:00Z",
+  "ultimoControllo": "2026-11-20T17:10:00Z",
+  "controlli": 5,
   "esito": "parziale",
-  "messaggio": "Controllo del 20 novembre (12:00): nessuna novità per le tappe del 5-9 dicembre. Cambio BNC invariato (1 € = 24,43 CZK). PID segnala un riepilogo di limitazioni brevi dei tram tra l'1 e l'8 dicembre, ancora senza dettagli per linea. Nessuno sciopero confermato. Restano da confermare programma del planetario, orari del Castello e date dei mercatini (28 novembre - 6 gennaio secondo le fonti consultate).",
+  "messaggio": "Controllo del 20 novembre (18:00): nessuna novità per le tappe del 5-9 dicembre. Cambio BNC del 20 novembre: 1 € = 24,47 CZK (variazione trascurabile). PID: tram 9 sospeso tra Nákladové nádraží Žižkov e Ohrada fino al 18 dicembre; resta l'avviso di limitazioni brevi dei tram dall'1 all'8 dicembre, senza dettaglio per linea. Nessuno sciopero annunciato. Mercatini: fonti concordi sul 28 novembre - 6 gennaio, 10-22. Restano da confermare programma del planetario e orari del Castello (sito non consultabile).",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -27,7 +27,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-20T11:10:00Z",
+    "generale": "2026-11-20T17:10:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-20T11:10:00Z"
   },
@@ -60,8 +60,8 @@
     ]
   },
   "cambio": {
-    "eurCzk": 24.43,
-    "data": "2026-11-19",
+    "eurCzk": 24.47,
+    "data": "2026-11-20",
     "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
   }
 }
