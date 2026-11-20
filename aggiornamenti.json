@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-20T06:15:00Z",
-  "ultimoControllo": "2026-11-20T06:15:00Z",
-  "controlli": 3,
+  "generato": "2026-11-20T11:10:00Z",
+  "ultimoControllo": "2026-11-20T11:10:00Z",
+  "controlli": 4,
   "esito": "parziale",
-  "messaggio": "Controllo del 20 novembre: nessuna novità per le tappe del 5-9 dicembre. Zoo Praha confermato aperto 9:00-16:00, domenica 6 dicembre con tutti gli ingressi (anche Nord) aperti fino alle 15:30. Nessuno sciopero annunciato. Restano da confermare programma del planetario, orari del Castello e date dei mercatini.",
+  "messaggio": "Controllo del 20 novembre (12:00): nessuna novità per le tappe del 5-9 dicembre. Cambio BNC invariato (1 € = 24,43 CZK). PID segnala un riepilogo di limitazioni brevi dei tram tra l'1 e l'8 dicembre, ancora senza dettagli per linea. Nessuno sciopero confermato. Restano da confermare programma del planetario, orari del Castello e date dei mercatini (28 novembre - 6 gennaio secondo le fonti consultate).",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -27,15 +27,15 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-20T06:15:00Z",
+    "generale": "2026-11-20T11:10:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
-    "t-zoo": "2026-11-20T06:15:00Z"
+    "t-zoo": "2026-11-20T11:10:00Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
       {
         "id": "generale",
-        "testo": "Verificare su pid.cz e idos.cz le limitazioni dei tram di dicembre 2026 (pagina mensile non ancora pubblicata) e l'assenza di scioperi."
+        "testo": "Su pid.cz e idos.cz è annunciato un riepilogo delle limitazioni brevi dei tram dall'1 all'8 dicembre: leggere il dettaglio per le linee 6, 9, 15, 17, 22, 23, 26 e confermare l'assenza di scioperi."
       }
     ],
     "2026-12-06": [
@@ -52,6 +52,10 @@
       {
         "id": "d7-salita",
         "testo": "Confermare che i tram 22 e 23 per il Castello circolino sul percorso regolare (lavori a Hradčany conclusi in estate)."
+      },
+      {
+        "id": "d7-castello",
+        "testo": "Castello: pagina oraria hrad.cz non consultabile nell'ultimo controllo, confermare orari e cambio della guardia."
       }
     ]
   },
