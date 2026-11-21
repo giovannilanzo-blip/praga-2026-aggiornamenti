@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-21T11:07:51Z",
-  "ultimoControllo": "2026-11-21T11:07:51Z",
-  "controlli": 7,
+  "generato": "2026-11-21T17:08:02Z",
+  "ultimoControllo": "2026-11-21T17:08:02Z",
+  "controlli": 8,
   "esito": "parziale",
-  "messaggio": "Controllo del 21 novembre (12:00): nessuna novità da pubblicare per il 5-9 dicembre. Cambio BNC del 20 novembre invariato: 1 € = 24,47 CZK. PID: nessuna nuova deviazione per le linee dell'itinerario oltre al tram 9 sospeso fino al 18 dicembre; il riepilogo delle limitazioni dei tram dall'1 all'8 dicembre resta senza dettaglio per linea. Nessuno sciopero annunciato per dicembre. Da confermare programma del planetario, Castello (hrad.cz non raggiungibile), Vikárka, Lokál e orari della funicolare.",
+  "messaggio": "Controllo del 21 novembre (18:00): nessuna novità da pubblicare per il 5-9 dicembre. PID: nessuna nuova deviazione oltre al tram 9 sospeso fino al 18 dicembre; il riepilogo delle limitazioni dei tram dall'1 all'8 dicembre resta senza dettaglio per linea. Nessuno sciopero annunciato per dicembre. Da confermare programma del planetario, Castello (hrad.cz non raggiungibile), Vikárka, Lokál e orari della funicolare.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -27,7 +27,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-21T11:07:51Z",
+    "generale": "2026-11-21T17:08:02Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-21T06:09:25Z",
