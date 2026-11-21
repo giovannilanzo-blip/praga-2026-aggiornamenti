@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-21T06:09:25Z",
-  "ultimoControllo": "2026-11-21T06:09:25Z",
-  "controlli": 6,
+  "generato": "2026-11-21T11:07:51Z",
+  "ultimoControllo": "2026-11-21T11:07:51Z",
+  "controlli": 7,
   "esito": "parziale",
-  "messaggio": "Controllo del 21 novembre (7:00): nessuna novità da pubblicare per il 5-9 dicembre. Cambio BNC del 20 novembre: 1 € = 24,47 CZK (invariato). PID: nessuna deviazione per le linee dell'itinerario oltre al tram 9 sospeso fino al 18 dicembre; resta il riepilogo delle limitazioni dei tram dall'1 all'8 dicembre, ancora senza dettaglio per linea. Nessuno sciopero annunciato per dicembre. Mercatini 28 novembre - 6 gennaio, 10-22. Aperture confermate da fonti ufficiali per zoo, Mincovna e Výtopna; da confermare programma del planetario, Castello (hrad.cz non raggiungibile), Vikárka, Lokál e funicolare.",
+  "messaggio": "Controllo del 21 novembre (12:00): nessuna novità da pubblicare per il 5-9 dicembre. Cambio BNC del 20 novembre invariato: 1 € = 24,47 CZK. PID: nessuna nuova deviazione per le linee dell'itinerario oltre al tram 9 sospeso fino al 18 dicembre; il riepilogo delle limitazioni dei tram dall'1 all'8 dicembre resta senza dettaglio per linea. Nessuno sciopero annunciato per dicembre. Da confermare programma del planetario, Castello (hrad.cz non raggiungibile), Vikárka, Lokál e orari della funicolare.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -27,7 +27,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-21T06:09:25Z",
+    "generale": "2026-11-21T11:07:51Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-21T06:09:25Z",
@@ -66,6 +66,10 @@
       {
         "id": "d7-venceslao",
         "testo": "Mercatino di piazza San Venceslao: il sito ufficiale trhypraha.cz lo conferma in piazza, 10:00-22:00. Le «Václavské Vánoce» (altro evento) sono invece spostate nel parco dietro il Municipio della Città Vecchia: confermare il luogo prima del 7 dicembre."
+      },
+      {
+        "id": "d7-castello",
+        "testo": "Secondo fonti non ufficiali il Castello apre in avvento (28 novembre - 20 dicembre) anche con orari ampliati per il «Vánoční putování»: confermare su hrad.cz."
       }
     ]
   },
