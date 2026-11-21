@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-20T17:10:00Z",
-  "ultimoControllo": "2026-11-20T17:10:00Z",
-  "controlli": 5,
+  "generato": "2026-11-21T06:09:25Z",
+  "ultimoControllo": "2026-11-21T06:09:25Z",
+  "controlli": 6,
   "esito": "parziale",
-  "messaggio": "Controllo del 20 novembre (18:00): nessuna novità per le tappe del 5-9 dicembre. Cambio BNC del 20 novembre: 1 € = 24,47 CZK (variazione trascurabile). PID: tram 9 sospeso tra Nákladové nádraží Žižkov e Ohrada fino al 18 dicembre; resta l'avviso di limitazioni brevi dei tram dall'1 all'8 dicembre, senza dettaglio per linea. Nessuno sciopero annunciato. Mercatini: fonti concordi sul 28 novembre - 6 gennaio, 10-22. Restano da confermare programma del planetario e orari del Castello (sito non consultabile).",
+  "messaggio": "Controllo del 21 novembre (7:00): nessuna novità da pubblicare per il 5-9 dicembre. Cambio BNC del 20 novembre: 1 € = 24,47 CZK (invariato). PID: nessuna deviazione per le linee dell'itinerario oltre al tram 9 sospeso fino al 18 dicembre; resta il riepilogo delle limitazioni dei tram dall'1 all'8 dicembre, ancora senza dettaglio per linea. Nessuno sciopero annunciato per dicembre. Mercatini 28 novembre - 6 gennaio, 10-22. Aperture confermate da fonti ufficiali per zoo, Mincovna e Výtopna; da confermare programma del planetario, Castello (hrad.cz non raggiungibile), Vikárka, Lokál e funicolare.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -27,9 +27,15 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-20T17:10:00Z",
+    "generale": "2026-11-21T06:09:25Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
-    "t-zoo": "2026-11-20T11:10:00Z"
+    "t-zoo": "2026-11-21T06:09:25Z",
+    "d6-zoo": "2026-11-21T06:09:25Z",
+    "d6-mincovna": "2026-11-21T06:09:25Z",
+    "d8-mincovna": "2026-11-21T06:09:25Z",
+    "d7-vytopna": "2026-11-21T06:09:25Z",
+    "d7-venceslao": "2026-11-21T06:09:25Z",
+    "d6-mercatino": "2026-11-21T06:09:25Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
@@ -56,6 +62,10 @@
       {
         "id": "d7-castello",
         "testo": "Castello: pagina oraria hrad.cz non consultabile nell'ultimo controllo, confermare orari e cambio della guardia."
+      },
+      {
+        "id": "d7-venceslao",
+        "testo": "Mercatino di piazza San Venceslao: il sito ufficiale trhypraha.cz lo conferma in piazza, 10:00-22:00. Le «Václavské Vánoce» (altro evento) sono invece spostate nel parco dietro il Municipio della Città Vecchia: confermare il luogo prima del 7 dicembre."
       }
     ]
   },
@@ -63,5 +73,113 @@
     "eurCzk": 24.47,
     "data": "2026-11-20",
     "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
+  },
+  "stati": {
+    "d6-zoo": {
+      "giorno": "2026-12-06",
+      "etichette": [
+        {
+          "stato": "aperto",
+          "testo": "Aperto 9:00–16:00"
+        }
+      ],
+      "nota": "Orario invernale novembre-febbraio, biglietterie chiuse 30 minuti prima.",
+      "fonte": "https://prague.eu/cs/objevujte/zoologicka-zahrada-hl-m-prahy/",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d6-zoo-seggiovia": {
+      "giorno": "2026-12-06",
+      "etichette": [
+        {
+          "stato": "non-verificato",
+          "testo": "Orari seggiovia da confermare"
+        }
+      ],
+      "nota": "Seggiovia gestita da DPP, orari non pubblicati nella fonte consultata.",
+      "fonte": "https://prague.eu/cs/objevujte/zoologicka-zahrada-hl-m-prahy/",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d6-planetario": {
+      "giorno": "2026-12-06",
+      "etichette": [
+        {
+          "stato": "non-verificato",
+          "testo": "Programma 16:30 da confermare"
+        }
+      ],
+      "nota": "Aperto la domenica 10:30–20:30; showtime «To Mars!» e posti non consultabili online.",
+      "fonte": "http://prague.eu/cs/objekt/mista/392/planetarium-praha",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d8-mincovna": {
+      "giorno": "2026-12-06",
+      "etichette": [
+        {
+          "stato": "aperto",
+          "testo": "Aperto 12:00–23:00"
+        }
+      ],
+      "nota": "Domenica cucina fino alle 22:00, pausa cucina 16:00–17:00.",
+      "fonte": "https://www.restauracemincovna.cz/",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d8-lokal": {
+      "giorno": "2026-12-06",
+      "etichette": [
+        {
+          "stato": "non-verificato",
+          "testo": "Orari non verificati"
+        }
+      ],
+      "nota": "Sito non raggiungibile nel controllo.",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d7-castello": {
+      "giorno": "2026-12-07",
+      "etichette": [
+        {
+          "stato": "orario-speciale",
+          "testo": "Edifici 9:00–16:00"
+        }
+      ],
+      "nota": "Cambio della guardia solenne alle 12:00; hrad.cz non raggiungibile, dato da prague.eu.",
+      "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d7-vikarka": {
+      "giorno": "2026-12-07",
+      "etichette": [
+        {
+          "stato": "non-verificato",
+          "testo": "Orari non verificati"
+        }
+      ],
+      "nota": "Nessuna fonte ufficiale con orari aggiornati.",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d7-funicolare": {
+      "giorno": "2026-12-07",
+      "etichette": [
+        {
+          "stato": "non-verificato",
+          "testo": "Nessun avviso PID"
+        }
+      ],
+      "nota": "Nessuna limitazione su pid.cz; orari da confermare su dpp.cz.",
+      "fonte": "https://pid.cz/en/changes/",
+      "controllato": "2026-11-21T06:09:25Z"
+    },
+    "d7-vytopna": {
+      "giorno": "2026-12-07",
+      "etichette": [
+        {
+          "stato": "aperto",
+          "testo": "Aperto 11:00–24:00"
+        }
+      ],
+      "nota": "Orario di tutti i giorni, filiale di piazza San Venceslao.",
+      "fonte": "https://www.vytopna.cz/en/",
+      "controllato": "2026-11-21T06:09:25Z"
+    }
   }
 }
