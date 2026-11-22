@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-22T11:15:00Z",
-  "ultimoControllo": "2026-11-22T11:15:00Z",
-  "controlli": 10,
+  "generato": "2026-11-22T17:10:00Z",
+  "ultimoControllo": "2026-11-22T17:10:00Z",
+  "controlli": 11,
   "esito": "parziale",
-  "messaggio": "Controllo del 22 novembre (12:00): nessuna nuova novità. Cambio invariato (24,47 CZK, 20 novembre). PID: riepilogo tram 1-8 dicembre con soli quattro tratti notturni o brevi (nessuno sulle linee dell'itinerario, linee non indicate). Planetum: «To Mars!» 6 dicembre 16:30 presente nel programma. Da confermare: orari Castello (hrad.cz 403), Zoo e DPP (404), Lokál.",
+  "messaggio": "Controllo del 22 novembre (18:00): nessuna nuova novità. Cambio invariato (24,47 CZK, 20 novembre). PID: nessuna limitazione sulle linee dell'itinerario, nessuno sciopero annunciato; riepilogo tram 1-8 dicembre ancora senza linee indicate. Castello: Vánoční putování confermato (lun-ven 14:00–18:00, sab-dom 10:00–18:00). Mercatini di Città Vecchia e San Venceslao 28/11–6/1, 10:00–22:00. Da confermare: orari edifici del Castello (hrad.cz 403), Zoo e seggiovia (zoopraha.cz 404), Planetum (posti per replica), Lokál.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,16 +41,16 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-22T11:15:00Z",
+    "generale": "2026-11-22T17:10:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-21T06:09:25Z",
+    "d6-zoo": "2026-11-22T17:10:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
-    "d8-mincovna": "2026-11-21T06:09:25Z",
-    "d7-vytopna": "2026-11-21T06:09:25Z",
-    "d7-venceslao": "2026-11-21T06:09:25Z",
-    "d6-mercatino": "2026-11-21T06:09:25Z",
-    "d7-castello": "2026-11-22T06:20:00Z",
+    "d8-mincovna": "2026-11-22T17:10:00Z",
+    "d7-vytopna": "2026-11-22T17:10:00Z",
+    "d7-venceslao": "2026-11-22T17:10:00Z",
+    "d6-mercatino": "2026-11-22T17:10:00Z",
+    "d7-castello": "2026-11-22T17:10:00Z",
     "d7-salita": "2026-11-22T06:20:00Z",
     "d6-planetario": "2026-11-22T11:15:00Z"
   },
@@ -110,7 +110,7 @@
       ],
       "nota": "Orario invernale novembre-febbraio, biglietterie chiuse 30 minuti prima.",
       "fonte": "https://prague.eu/cs/objevujte/zoologicka-zahrada-hl-m-prahy/",
-      "controllato": "2026-11-21T06:09:25Z"
+      "controllato": "2026-11-22T17:10:00Z"
     },
     "d6-zoo-seggiovia": {
       "giorno": "2026-12-06",
@@ -146,7 +146,7 @@
       ],
       "nota": "Domenica cucina fino alle 22:00, pausa cucina 16:00–17:00.",
       "fonte": "https://www.restauracemincovna.cz/",
-      "controllato": "2026-11-21T06:09:25Z"
+      "controllato": "2026-11-22T17:10:00Z"
     },
     "d8-lokal": {
       "giorno": "2026-12-06",
@@ -169,7 +169,7 @@
       ],
       "nota": "Cambio guardia solenne 12:00. Vánoční putování lun 7 dic 14:00–18:00 (gratis). Orario edifici discordante tra fonti: hrad.cz non raggiungibile.",
       "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
-      "controllato": "2026-11-22T06:20:00Z"
+      "controllato": "2026-11-22T17:10:00Z"
     },
     "d7-vikarka": {
       "giorno": "2026-12-07",
@@ -204,7 +204,7 @@
       ],
       "nota": "Orario di tutti i giorni, filiale di piazza San Venceslao.",
       "fonte": "https://www.vytopna.cz/en/",
-      "controllato": "2026-11-21T06:09:25Z"
+      "controllato": "2026-11-22T17:10:00Z"
     }
   }
 }
