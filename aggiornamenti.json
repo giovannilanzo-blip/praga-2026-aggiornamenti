@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-21T17:08:02Z",
-  "ultimoControllo": "2026-11-21T17:08:02Z",
-  "controlli": 8,
+  "generato": "2026-11-22T06:20:00Z",
+  "ultimoControllo": "2026-11-22T06:20:00Z",
+  "controlli": 9,
   "esito": "parziale",
-  "messaggio": "Controllo del 21 novembre (18:00): nessuna novità da pubblicare per il 5-9 dicembre. PID: nessuna nuova deviazione oltre al tram 9 sospeso fino al 18 dicembre; il riepilogo delle limitazioni dei tram dall'1 all'8 dicembre resta senza dettaglio per linea. Nessuno sciopero annunciato per dicembre. Da confermare programma del planetario, Castello (hrad.cz non raggiungibile), Vikárka, Lokál e orari della funicolare.",
+  "messaggio": "Controllo del 22 novembre (7:00): una novità per il Castello (Vánoční putování, lunedì 7 dicembre 14:00–18:00). PID: nessuna nuova deviazione per le linee dell'itinerario, riepilogo tram 1-8 dicembre ancora senza dettaglio. Nessuno sciopero annunciato. Cambio invariato (24,47 CZK, 20 novembre). Da confermare: programma planetario, orari funicolare e Lokál (siti non raggiungibili).",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -24,10 +24,24 @@
       "testo": "Messaggio di prova: se compare nell'app, gli aggiornamenti di viaggio arrivano correttamente. Con questa prova è stato aggiornato anche il cambio del convertitore (1 € = 24,43 CZK, cambio ufficiale della Banca nazionale ceca del 19 novembre).",
       "fonte": "https://www.cnb.cz/",
       "superata": false
+    },
+    {
+      "id": "agg-20261122-1",
+      "pubblicata": "2026-11-22T06:20:00Z",
+      "gravita": "media",
+      "giorno": "2026-12-07",
+      "riguarda": {
+        "tipo": "tappa",
+        "id": "d7-castello"
+      },
+      "titolo": "Castello: Vánoční putování, orari dell'avvento",
+      "testo": "Dal 28 novembre al 3 gennaio il Castello ospita il «Vánoční putování» (ingresso gratuito, per le famiglie: albero a Jiřské náměstí, presepi presso San Vito, Císařská konírna con laboratori). Nei giorni feriali dell'avvento l'orario è 14:00–18:00, quindi lunedì 7 dicembre solo dal pomeriggio; sabato e domenica 10:00–18:00. Il cambio della guardia solenne resta alle 12:00 nel primo cortile. Le visite agli edifici seguono l'orario normale: confermare su hrad.cz.",
+      "fonte": "https://prague.eu/cs/akce/vanocni-putovani-prazskym-hradem/",
+      "superata": false
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-21T17:08:02Z",
+    "generale": "2026-11-22T06:20:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-21T06:09:25Z",
@@ -35,7 +49,9 @@
     "d8-mincovna": "2026-11-21T06:09:25Z",
     "d7-vytopna": "2026-11-21T06:09:25Z",
     "d7-venceslao": "2026-11-21T06:09:25Z",
-    "d6-mercatino": "2026-11-21T06:09:25Z"
+    "d6-mercatino": "2026-11-21T06:09:25Z",
+    "d7-castello": "2026-11-22T06:20:00Z",
+    "d7-salita": "2026-11-22T06:20:00Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
@@ -69,7 +85,7 @@
       },
       {
         "id": "d7-castello",
-        "testo": "Secondo fonti non ufficiali il Castello apre in avvento (28 novembre - 20 dicembre) anche con orari ampliati per il «Vánoční putování»: confermare su hrad.cz."
+        "testo": "Vánoční putování lunedì 14:00–18:00 (prague.eu): confermare su hrad.cz anche l'orario degli edifici (9:00–16:00 o 17:00)."
       }
     ]
   },
@@ -143,12 +159,12 @@
       "etichette": [
         {
           "stato": "orario-speciale",
-          "testo": "Edifici 9:00–16:00"
+          "testo": "Edifici 9–16/17; Putování 14–18"
         }
       ],
-      "nota": "Cambio della guardia solenne alle 12:00; hrad.cz non raggiungibile, dato da prague.eu.",
+      "nota": "Cambio guardia solenne 12:00. Vánoční putování lun 7 dic 14:00–18:00 (gratis). Orario edifici discordante tra fonti: hrad.cz non raggiungibile.",
       "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
-      "controllato": "2026-11-21T06:09:25Z"
+      "controllato": "2026-11-22T06:20:00Z"
     },
     "d7-vikarka": {
       "giorno": "2026-12-07",
