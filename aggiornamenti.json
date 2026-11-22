@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-22T06:20:00Z",
-  "ultimoControllo": "2026-11-22T06:20:00Z",
-  "controlli": 9,
+  "generato": "2026-11-22T11:15:00Z",
+  "ultimoControllo": "2026-11-22T11:15:00Z",
+  "controlli": 10,
   "esito": "parziale",
-  "messaggio": "Controllo del 22 novembre (7:00): una novità per il Castello (Vánoční putování, lunedì 7 dicembre 14:00–18:00). PID: nessuna nuova deviazione per le linee dell'itinerario, riepilogo tram 1-8 dicembre ancora senza dettaglio. Nessuno sciopero annunciato. Cambio invariato (24,47 CZK, 20 novembre). Da confermare: programma planetario, orari funicolare e Lokál (siti non raggiungibili).",
+  "messaggio": "Controllo del 22 novembre (12:00): nessuna nuova novità. Cambio invariato (24,47 CZK, 20 novembre). PID: riepilogo tram 1-8 dicembre con soli quattro tratti notturni o brevi (nessuno sulle linee dell'itinerario, linee non indicate). Planetum: «To Mars!» 6 dicembre 16:30 presente nel programma. Da confermare: orari Castello (hrad.cz 403), Zoo e DPP (404), Lokál.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,7 +41,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-22T06:20:00Z",
+    "generale": "2026-11-22T11:15:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-21T06:09:25Z",
@@ -51,13 +51,18 @@
     "d7-venceslao": "2026-11-21T06:09:25Z",
     "d6-mercatino": "2026-11-21T06:09:25Z",
     "d7-castello": "2026-11-22T06:20:00Z",
-    "d7-salita": "2026-11-22T06:20:00Z"
+    "d7-salita": "2026-11-22T06:20:00Z",
+    "d6-planetario": "2026-11-22T11:15:00Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
       {
         "id": "generale",
         "testo": "Su pid.cz e idos.cz è annunciato un riepilogo delle limitazioni brevi dei tram dall'1 all'8 dicembre: leggere il dettaglio per le linee 6, 9, 15, 17, 22, 23, 26 e confermare l'assenza di scioperi."
+      },
+      {
+        "id": "generale",
+        "testo": "Tram: sabato 5 dicembre 9:30–18:00 interrotto Červený Vrch – Dědina e notte 7–8 dicembre Na Knížecí – Smíchovské nádraží (pid.cz, linee non indicate): verificare le linee prima di spostarsi in zona."
       }
     ],
     "2026-12-06": [
@@ -124,12 +129,12 @@
       "etichette": [
         {
           "stato": "non-verificato",
-          "testo": "Programma 16:30 da confermare"
+          "testo": "To Mars! 16:30 in programma"
         }
       ],
-      "nota": "Aperto la domenica 10:30–20:30; showtime «To Mars!» e posti non consultabili online.",
-      "fonte": "http://prague.eu/cs/objekt/mista/392/planetarium-praha",
-      "controllato": "2026-11-21T06:09:25Z"
+      "nota": "Programma del 6 dicembre con To Mars! alle 16:30 sul sito; disponibilità posti non leggibile per singola replica: controllare su planetum.cz.",
+      "fonte": "https://www.planetum.cz/en/",
+      "controllato": "2026-11-22T11:15:00Z"
     },
     "d8-mincovna": {
       "giorno": "2026-12-06",
