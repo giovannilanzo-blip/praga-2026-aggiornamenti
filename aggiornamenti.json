@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-22T17:10:00Z",
-  "ultimoControllo": "2026-11-22T17:10:00Z",
-  "controlli": 11,
+  "generato": "2026-11-23T06:20:00Z",
+  "ultimoControllo": "2026-11-23T06:20:00Z",
+  "controlli": 12,
   "esito": "parziale",
-  "messaggio": "Controllo del 22 novembre (18:00): nessuna nuova novità. Cambio invariato (24,47 CZK, 20 novembre). PID: nessuna limitazione sulle linee dell'itinerario, nessuno sciopero annunciato; riepilogo tram 1-8 dicembre ancora senza linee indicate. Castello: Vánoční putování confermato (lun-ven 14:00–18:00, sab-dom 10:00–18:00). Mercatini di Città Vecchia e San Venceslao 28/11–6/1, 10:00–22:00. Da confermare: orari edifici del Castello (hrad.cz 403), Zoo e seggiovia (zoopraha.cz 404), Planetum (posti per replica), Lokál.",
+  "messaggio": "Controllo del 23 novembre (07:00): nessuna nuova novità. Cambio CNB invariato (24,47 CZK, 20 novembre). PID: nessuna limitazione sulle linee dell'itinerario; tram 9 sospeso fino al 18/12; riepilogo tram 1-8 dicembre senza dettaglio. Nessuno sciopero annunciato (sindacati DPP solo in stato di agitazione). Castello (prague.eu): edifici 9:00–17:00 tutti i giorni, cambio della guardia solenne alle 12:00. Da confermare: hrad.cz (403), zoopraha.cz (404), Planetum (posti), Lokál, aperture dei mercatini minori.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,17 +41,17 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-22T17:10:00Z",
+    "generale": "2026-11-23T06:20:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-22T17:10:00Z",
+    "d6-zoo": "2026-11-23T06:20:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
     "d8-mincovna": "2026-11-22T17:10:00Z",
     "d7-vytopna": "2026-11-22T17:10:00Z",
     "d7-venceslao": "2026-11-22T17:10:00Z",
     "d6-mercatino": "2026-11-22T17:10:00Z",
-    "d7-castello": "2026-11-22T17:10:00Z",
-    "d7-salita": "2026-11-22T06:20:00Z",
+    "d7-castello": "2026-11-23T06:20:00Z",
+    "d7-salita": "2026-11-23T06:20:00Z",
     "d6-planetario": "2026-11-22T11:15:00Z"
   },
   "domaniDaControllare": {
@@ -164,12 +164,12 @@
       "etichette": [
         {
           "stato": "orario-speciale",
-          "testo": "Edifici 9–16/17; Putování 14–18"
+          "testo": "Edifici 9–17; Putování 14–18"
         }
       ],
-      "nota": "Cambio guardia solenne 12:00. Vánoční putování lun 7 dic 14:00–18:00 (gratis). Orario edifici discordante tra fonti: hrad.cz non raggiungibile.",
+      "nota": "Edifici 9:00–17:00 e cambio guardia solenne 12:00 (prague.eu). Vánoční putování lun 7 dic 14:00–18:00 (gratis). hrad.cz non raggiungibile.",
       "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
-      "controllato": "2026-11-22T17:10:00Z"
+      "controllato": "2026-11-23T06:20:00Z"
     },
     "d7-vikarka": {
       "giorno": "2026-12-07",
@@ -190,9 +190,9 @@
           "testo": "Nessun avviso PID"
         }
       ],
-      "nota": "Nessuna limitazione su pid.cz; orari da confermare su dpp.cz.",
+      "nota": "Nessuna limitazione attiva su pid.cz (fermo concluso il 13/11); orari da confermare su dpp.cz.",
       "fonte": "https://pid.cz/en/changes/",
-      "controllato": "2026-11-21T06:09:25Z"
+      "controllato": "2026-11-23T06:20:00Z"
     },
     "d7-vytopna": {
       "giorno": "2026-12-07",
