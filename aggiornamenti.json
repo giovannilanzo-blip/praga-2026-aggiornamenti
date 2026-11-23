@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-23T06:20:00Z",
-  "ultimoControllo": "2026-11-23T06:20:00Z",
-  "controlli": 12,
+  "generato": "2026-11-23T11:20:00Z",
+  "ultimoControllo": "2026-11-23T11:20:00Z",
+  "controlli": 13,
   "esito": "parziale",
-  "messaggio": "Controllo del 23 novembre (07:00): nessuna nuova novità. Cambio CNB invariato (24,47 CZK, 20 novembre). PID: nessuna limitazione sulle linee dell'itinerario; tram 9 sospeso fino al 18/12; riepilogo tram 1-8 dicembre senza dettaglio. Nessuno sciopero annunciato (sindacati DPP solo in stato di agitazione). Castello (prague.eu): edifici 9:00–17:00 tutti i giorni, cambio della guardia solenne alle 12:00. Da confermare: hrad.cz (403), zoopraha.cz (404), Planetum (posti), Lokál, aperture dei mercatini minori.",
+  "messaggio": "Controllo del 23 novembre (12:00): nessuna nuova novità. Cambio CNB invariato (24,47 CZK, 20 novembre). PID: nessuna limitazione sulle linee dell'itinerario; tram 9 sospeso fino al 18/12; riepilogo tram 1-8 dicembre senza dettaglio delle linee. Nessuno sciopero annunciato. Mercatini Città Vecchia e San Venceslao confermati 28/11-6/1, 10:00–22:00 (trhypraha.cz). Da confermare: hrad.cz (403), zoopraha.cz (404), Planetum (programma 6/12 non ancora pubblicato), Lokál.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,15 +41,15 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-23T06:20:00Z",
+    "generale": "2026-11-23T11:20:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-23T06:20:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
     "d8-mincovna": "2026-11-22T17:10:00Z",
     "d7-vytopna": "2026-11-22T17:10:00Z",
-    "d7-venceslao": "2026-11-22T17:10:00Z",
-    "d6-mercatino": "2026-11-22T17:10:00Z",
+    "d7-venceslao": "2026-11-23T11:20:00Z",
+    "d6-mercatino": "2026-11-23T11:20:00Z",
     "d7-castello": "2026-11-23T06:20:00Z",
     "d7-salita": "2026-11-23T06:20:00Z",
     "d6-planetario": "2026-11-22T11:15:00Z"
