@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-23T11:20:00Z",
-  "ultimoControllo": "2026-11-23T11:20:00Z",
-  "controlli": 13,
+  "generato": "2026-11-23T17:10:00Z",
+  "ultimoControllo": "2026-11-23T17:10:00Z",
+  "controlli": 14,
   "esito": "parziale",
-  "messaggio": "Controllo del 23 novembre (12:00): nessuna nuova novità. Cambio CNB invariato (24,47 CZK, 20 novembre). PID: nessuna limitazione sulle linee dell'itinerario; tram 9 sospeso fino al 18/12; riepilogo tram 1-8 dicembre senza dettaglio delle linee. Nessuno sciopero annunciato. Mercatini Città Vecchia e San Venceslao confermati 28/11-6/1, 10:00–22:00 (trhypraha.cz). Da confermare: hrad.cz (403), zoopraha.cz (404), Planetum (programma 6/12 non ancora pubblicato), Lokál.",
+  "messaggio": "Controllo del 23 novembre (18:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario; riepilogo tram 1-8 dicembre ancora senza dettaglio delle linee; bus 317, 320, 961 ridotti 8-9/12 (fuori itinerario). Nessuno sciopero annunciato. Da confermare: hrad.cz (403), zoopraha.cz (404), programma Planetum del 6/12 non pubblicato.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,7 +41,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-23T11:20:00Z",
+    "generale": "2026-11-23T17:10:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-23T06:20:00Z",
