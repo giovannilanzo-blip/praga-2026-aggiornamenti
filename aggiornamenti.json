@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-23T17:10:00Z",
-  "ultimoControllo": "2026-11-23T17:10:00Z",
-  "controlli": 14,
+  "generato": "2026-11-24T06:07:28Z",
+  "ultimoControllo": "2026-11-24T06:07:28Z",
+  "controlli": 15,
   "esito": "parziale",
-  "messaggio": "Controllo del 23 novembre (18:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario; riepilogo tram 1-8 dicembre ancora senza dettaglio delle linee; bus 317, 320, 961 ridotti 8-9/12 (fuori itinerario). Nessuno sciopero annunciato. Da confermare: hrad.cz (403), zoopraha.cz (404), programma Planetum del 6/12 non pubblicato.",
+  "messaggio": "Controllo del 24 novembre (7:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso); riepilogo tram 1-8/12 ancora senza dettaglio delle linee. Nessuno sciopero annunciato. Mincovna e Výtopna senza chiusure a dicembre; Castello 9-17 senza chiusure il 7/12. Da confermare: hrad.cz (403), zoopraha.cz (404), Lokál (sito non raggiungibile), programma Planetum del 6/12 senza orari e posti.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,18 +41,18 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-23T17:10:00Z",
+    "generale": "2026-11-24T06:07:28Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-23T06:20:00Z",
+    "d6-zoo": "2026-11-24T06:07:28Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
-    "d8-mincovna": "2026-11-22T17:10:00Z",
-    "d7-vytopna": "2026-11-22T17:10:00Z",
+    "d8-mincovna": "2026-11-24T06:07:28Z",
+    "d7-vytopna": "2026-11-24T06:07:28Z",
     "d7-venceslao": "2026-11-23T11:20:00Z",
     "d6-mercatino": "2026-11-23T11:20:00Z",
-    "d7-castello": "2026-11-23T06:20:00Z",
-    "d7-salita": "2026-11-23T06:20:00Z",
-    "d6-planetario": "2026-11-22T11:15:00Z"
+    "d7-castello": "2026-11-24T06:07:28Z",
+    "d7-salita": "2026-11-24T06:07:28Z",
+    "d6-planetario": "2026-11-24T06:07:28Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
@@ -95,8 +95,8 @@
     ]
   },
   "cambio": {
-    "eurCzk": 24.47,
-    "data": "2026-11-20",
+    "eurCzk": 24.46,
+    "data": "2026-11-23",
     "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
   },
   "stati": {
@@ -144,9 +144,9 @@
           "testo": "Aperto 12:00–23:00"
         }
       ],
-      "nota": "Domenica cucina fino alle 22:00, pausa cucina 16:00–17:00.",
+      "nota": "Domenica 6 cucina fino alle 22:00, pausa cucina 16:00–17:00; martedì 8 aperto 11:30–23:00. Nessuna chiusura a dicembre.",
       "fonte": "https://www.restauracemincovna.cz/",
-      "controllato": "2026-11-22T17:10:00Z"
+      "controllato": "2026-11-24T06:07:28Z"
     },
     "d8-lokal": {
       "giorno": "2026-12-06",
@@ -169,7 +169,7 @@
       ],
       "nota": "Edifici 9:00–17:00 e cambio guardia solenne 12:00 (prague.eu). Vánoční putování lun 7 dic 14:00–18:00 (gratis). hrad.cz non raggiungibile.",
       "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
-      "controllato": "2026-11-23T06:20:00Z"
+      "controllato": "2026-11-24T06:07:28Z"
     },
     "d7-vikarka": {
       "giorno": "2026-12-07",
@@ -204,7 +204,7 @@
       ],
       "nota": "Orario di tutti i giorni, filiale di piazza San Venceslao.",
       "fonte": "https://www.vytopna.cz/en/",
-      "controllato": "2026-11-22T17:10:00Z"
+      "controllato": "2026-11-24T06:07:28Z"
     }
   }
 }
