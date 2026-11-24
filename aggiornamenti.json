@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-24T06:07:28Z",
-  "ultimoControllo": "2026-11-24T06:07:28Z",
-  "controlli": 15,
+  "generato": "2026-11-24T11:10:00Z",
+  "ultimoControllo": "2026-11-24T11:10:00Z",
+  "controlli": 16,
   "esito": "parziale",
-  "messaggio": "Controllo del 24 novembre (7:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso); riepilogo tram 1-8/12 ancora senza dettaglio delle linee. Nessuno sciopero annunciato. Mincovna e Výtopna senza chiusure a dicembre; Castello 9-17 senza chiusure il 7/12. Da confermare: hrad.cz (403), zoopraha.cz (404), Lokál (sito non raggiungibile), programma Planetum del 6/12 senza orari e posti.",
+  "messaggio": "Controllo del 24 novembre (12:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso; metro A Flora chiusa, metro C Florenc con accesso limitato; Airport Express con percorso e fermate modificati a Hlavní nádraží). Nessuno sciopero annunciato. Da confermare: hrad.cz (403), zoopraha.cz (404), Lokál, programma Planetum del 6/12 senza orari e posti.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,7 +41,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-24T06:07:28Z",
+    "generale": "2026-11-24T11:10:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-24T06:07:28Z",
