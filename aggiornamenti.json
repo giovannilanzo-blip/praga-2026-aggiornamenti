@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-25T11:15:00Z",
-  "ultimoControllo": "2026-11-25T11:15:00Z",
-  "controlli": 19,
+  "generato": "2026-11-25T17:15:00Z",
+  "ultimoControllo": "2026-11-25T17:15:00Z",
+  "controlli": 20,
   "esito": "parziale",
-  "messaggio": "Controllo del 25 novembre (12:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso; metro A Flora chiusa, metro C Florenc con accesso limitato; filobus 59 con irregolarità segnalata oggi dalle 11:38, causa non indicata). Nessuno sciopero annunciato per i trasporti pubblici. Da confermare: hrad.cz (403), zoopraha.cz, Lokál, Planetum senza orari e posti per il 6/12.",
+  "messaggio": "Controllo del 25 novembre (18:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario; irregolarità del filobus 59 conclusa alle 13:01, ritardi su tram 3, 17, 24 (17 non è sul percorso previsto: da riverificare). Nessuno sciopero annunciato. Zoo: orario 9:00-16:00 confermato sul sito ufficiale. Da confermare: hrad.cz (403), Lokál (sito non raggiungibile), Planetum senza orari e posti per il 6/12.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,10 +41,10 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-25T11:15:00Z",
+    "generale": "2026-11-25T17:15:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-24T06:07:28Z",
+    "d6-zoo": "2026-11-25T17:15:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
     "d8-mincovna": "2026-11-24T06:07:28Z",
     "d7-vytopna": "2026-11-24T06:07:28Z",
@@ -62,11 +62,11 @@
       },
       {
         "id": "generale",
-        "testo": "Tram: sabato 5 dicembre 9:30–18:00 interrotto Červený Vrch – Dědina e notte 7–8 dicembre Na Knížecí – Smíchovské nádraží (pid.cz, linee non indicate): verificare le linee prima di spostarsi in zona."
+        "testo": "Tram: sabato 5 dicembre 9:30–18:00 interrotto Červený Vrch – Dědina e notte 7–8 dicembre Na Knížecí – Smíchovské nádraží (pid.cz, linee non indicate): verificare le linee prima di spostarsi in zona. Tram 17: ritardi su tutta la rete DPP dal 25/11 fino a nuovo avviso."
       },
       {
         "id": "generale",
-        "testo": "Filobus 59: irregolarità con ritardi segnalata da pid.cz il 25/11 alle 11:38, senza causa né data di fine. Riverificare prima di usarlo."
+        "testo": "Filobus 59: irregolarità segnalata da pid.cz il 25/11 e conclusa alle 13:01 dello stesso giorno. Riverificare prima di usarlo."
       }
     ],
     "2026-12-06": [
@@ -112,9 +112,9 @@
           "testo": "Aperto 9:00–16:00"
         }
       ],
-      "nota": "Orario invernale novembre-febbraio, biglietterie chiuse 30 minuti prima.",
-      "fonte": "https://prague.eu/cs/objevujte/zoologicka-zahrada-hl-m-prahy/",
-      "controllato": "2026-11-22T17:10:00Z"
+      "nota": "Domenica 6 tutti gli ingressi aperti, incluso Nord, biglietterie fino alle 15:30 (sito ufficiale).",
+      "fonte": "https://www.zoopraha.cz/en/before-visit/opening-time",
+      "controllato": "2026-11-25T17:15:00Z"
     },
     "d6-zoo-seggiovia": {
       "giorno": "2026-12-06",
