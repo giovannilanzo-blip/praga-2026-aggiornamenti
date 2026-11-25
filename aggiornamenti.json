@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-25T06:20:00Z",
-  "ultimoControllo": "2026-11-25T06:20:00Z",
-  "controlli": 18,
+  "generato": "2026-11-25T11:15:00Z",
+  "ultimoControllo": "2026-11-25T11:15:00Z",
+  "controlli": 19,
   "esito": "parziale",
-  "messaggio": "Controllo del 25 novembre (7:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso; metro A Flora chiusa, metro C Florenc con accesso limitato). Nessuno sciopero annunciato. Cambio CNB del 24 novembre: 1 € = 24,43 CZK. Castello: prague.eu indica edifici 9:00–17:00 e cambio guardia solenne alle 12:00. Da confermare: hrad.cz (403), zoopraha.cz (404), Lokál, programma Planetum del 6/12 senza orari e posti, riepilogo tram 1–8/12 senza dettaglio delle linee.",
+  "messaggio": "Controllo del 25 novembre (12:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso; metro A Flora chiusa, metro C Florenc con accesso limitato; filobus 59 con irregolarità segnalata oggi dalle 11:38, causa non indicata). Nessuno sciopero annunciato per i trasporti pubblici. Da confermare: hrad.cz (403), zoopraha.cz, Lokál, Planetum senza orari e posti per il 6/12.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,7 +41,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-25T06:20:00Z",
+    "generale": "2026-11-25T11:15:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-24T06:07:28Z",
@@ -63,6 +63,10 @@
       {
         "id": "generale",
         "testo": "Tram: sabato 5 dicembre 9:30–18:00 interrotto Červený Vrch – Dědina e notte 7–8 dicembre Na Knížecí – Smíchovské nádraží (pid.cz, linee non indicate): verificare le linee prima di spostarsi in zona."
+      },
+      {
+        "id": "generale",
+        "testo": "Filobus 59: irregolarità con ritardi segnalata da pid.cz il 25/11 alle 11:38, senza causa né data di fine. Riverificare prima di usarlo."
       }
     ],
     "2026-12-06": [
