@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-24T17:08:00Z",
-  "ultimoControllo": "2026-11-24T17:08:00Z",
-  "controlli": 17,
+  "generato": "2026-11-25T06:20:00Z",
+  "ultimoControllo": "2026-11-25T06:20:00Z",
+  "controlli": 18,
   "esito": "parziale",
-  "messaggio": "Controllo del 24 novembre (18:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso; metro A Flora chiusa, metro C Florenc con accesso limitato; Airport Express con fermate modificate a Hlavní nádraží). Nessuno sciopero annunciato. Da confermare: hrad.cz (403), zoopraha.cz (404), Lokál, programma Planetum del 6/12 senza orari e posti.",
+  "messaggio": "Controllo del 25 novembre (7:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso solo tra Nákladové nádraží Žižkov e Ohrada, fuori percorso; metro A Flora chiusa, metro C Florenc con accesso limitato). Nessuno sciopero annunciato. Cambio CNB del 24 novembre: 1 € = 24,43 CZK. Castello: prague.eu indica edifici 9:00–17:00 e cambio guardia solenne alle 12:00. Da confermare: hrad.cz (403), zoopraha.cz (404), Lokál, programma Planetum del 6/12 senza orari e posti, riepilogo tram 1–8/12 senza dettaglio delle linee.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,7 +41,7 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-24T17:08:00Z",
+    "generale": "2026-11-25T06:20:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
     "d6-zoo": "2026-11-24T06:07:28Z",
@@ -50,7 +50,7 @@
     "d7-vytopna": "2026-11-24T06:07:28Z",
     "d7-venceslao": "2026-11-23T11:20:00Z",
     "d6-mercatino": "2026-11-23T11:20:00Z",
-    "d7-castello": "2026-11-24T06:07:28Z",
+    "d7-castello": "2026-11-25T06:20:00Z",
     "d7-salita": "2026-11-24T06:07:28Z",
     "d6-planetario": "2026-11-24T06:07:28Z"
   },
@@ -95,8 +95,8 @@
     ]
   },
   "cambio": {
-    "eurCzk": 24.46,
-    "data": "2026-11-23",
+    "eurCzk": 24.43,
+    "data": "2026-11-24",
     "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
   },
   "stati": {
@@ -169,7 +169,7 @@
       ],
       "nota": "Edifici 9:00–17:00 e cambio guardia solenne 12:00 (prague.eu). Vánoční putování lun 7 dic 14:00–18:00 (gratis). hrad.cz non raggiungibile.",
       "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
-      "controllato": "2026-11-24T06:07:28Z"
+      "controllato": "2026-11-25T06:20:00Z"
     },
     "d7-vikarka": {
       "giorno": "2026-12-07",
