@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-26T11:10:00Z",
-  "ultimoControllo": "2026-11-26T11:10:00Z",
-  "controlli": 22,
+  "generato": "2026-11-26T17:15:00Z",
+  "ultimoControllo": "2026-11-26T17:15:00Z",
+  "controlli": 23,
   "esito": "parziale",
-  "messaggio": "Controllo del 26 novembre (12:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario (tram 9 sospeso fino al 18/12, fuori percorso; tram 26 sabato 5/12 9:30–18:00 Červený Vrch – Dědina; notte 7–8/12 Na Knížecí – Smíchovské nádraží). Nessuno sciopero annunciato. Zoo 9:00–16:00 confermato; Mincovna e Výtopna regolari. Da confermare: hrad.cz (403), Lokál, Planetum senza posti leggibili per il 6/12, dettaglio linee delle limitazioni tram 1–8/12.",
+  "messaggio": "Controllo del 26 novembre (18:00): una novità di gravità bassa, tram 15 fermo la notte 7–8/12 tra Na Knížecí e Smíchovské nádraží. Nessun'altra limitazione sulle linee dell'itinerario, nessuno sciopero annunciato, Zoo 9:00–16:00 confermato (ingressi aperti fino alle 15:30 domenica 6), Castello edifici 9:00–17:00 e guardia solenne alle 12:00. Da confermare: hrad.cz (403), Lokál, posti Planetum per il 6/12.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -38,19 +38,33 @@
       "testo": "Dal 28 novembre al 3 gennaio il Castello ospita il «Vánoční putování» (ingresso gratuito, per le famiglie: albero a Jiřské náměstí, presepi presso San Vito, Císařská konírna con laboratori). Nei giorni feriali dell'avvento l'orario è 14:00–18:00, quindi lunedì 7 dicembre solo dal pomeriggio; sabato e domenica 10:00–18:00. Il cambio della guardia solenne resta alle 12:00 nel primo cortile. Le visite agli edifici seguono l'orario normale: confermare su hrad.cz.",
       "fonte": "https://prague.eu/cs/akce/vanocni-putovani-prazskym-hradem/",
       "superata": false
+    },
+    {
+      "id": "agg-20261126-1",
+      "pubblicata": "2026-11-26T17:15:00Z",
+      "gravita": "bassa",
+      "giorno": "2026-12-07",
+      "riguarda": {
+        "tipo": "generale",
+        "id": "generale"
+      },
+      "titolo": "Tram 15 fermo nella notte 7–8 dicembre",
+      "testo": "Il tram 15 non circola tra Na Knížecí e Smíchovské nádraží dal 7 dicembre alle 22:00 all'8 dicembre alle 4:00. Se si rientra tardi la sera del 7, verificare su idos.cz il percorso sostitutivo.",
+      "fonte": "https://pid.cz/en/changes/",
+      "superata": false
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-26T11:10:00Z",
+    "generale": "2026-11-26T17:15:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-26T11:10:00Z",
+    "d6-zoo": "2026-11-26T17:15:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
     "d8-mincovna": "2026-11-26T11:10:00Z",
     "d7-vytopna": "2026-11-26T11:10:00Z",
     "d7-venceslao": "2026-11-26T06:20:00Z",
     "d6-mercatino": "2026-11-26T06:20:00Z",
-    "d7-castello": "2026-11-25T06:20:00Z",
+    "d7-castello": "2026-11-26T17:15:00Z",
     "d7-salita": "2026-11-24T06:07:28Z",
     "d6-planetario": "2026-11-26T06:20:00Z"
   },
@@ -99,8 +113,8 @@
     ]
   },
   "cambio": {
-    "eurCzk": 24.44,
-    "data": "2026-11-25",
+    "eurCzk": 24.46,
+    "data": "2026-11-26",
     "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
   },
   "stati": {
@@ -114,7 +128,7 @@
       ],
       "nota": "Domenica 6 tutti gli ingressi aperti, incluso Nord, biglietterie fino alle 15:30 (sito ufficiale).",
       "fonte": "https://www.zoopraha.cz/en/before-visit/opening-time",
-      "controllato": "2026-11-26T11:10:00Z"
+      "controllato": "2026-11-26T17:15:00Z"
     },
     "d6-zoo-seggiovia": {
       "giorno": "2026-12-06",
@@ -138,7 +152,7 @@
       ],
       "nota": "To Mars! alle 16:30 in programma il 6/12 sul sito; posti non leggibili: controllare su planetum.cz.",
       "fonte": "https://www.planetum.cz/en/",
-      "controllato": "2026-11-26T11:10:00Z"
+      "controllato": "2026-11-26T17:15:00Z"
     },
     "d8-mincovna": {
       "giorno": "2026-12-06",
@@ -171,9 +185,9 @@
           "testo": "Edifici 9–17; Putování 14–18"
         }
       ],
-      "nota": "Edifici 9:00–17:00 e cambio guardia solenne 12:00 (prague.eu). Vánoční putování lun 7 dic 14:00–18:00 (gratis). hrad.cz non raggiungibile.",
+      "nota": "Edifici 9:00–17:00 e guardia solenne 12:00 (prague.eu). Vánoční putování lun 7 dic 14:00–18:00 (gratis). hrad.cz non raggiungibile.",
       "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
-      "controllato": "2026-11-25T06:20:00Z"
+      "controllato": "2026-11-26T17:15:00Z"
     },
     "d7-vikarka": {
       "giorno": "2026-12-07",
