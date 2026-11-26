@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-25T17:15:00Z",
-  "ultimoControllo": "2026-11-25T17:15:00Z",
-  "controlli": 20,
+  "generato": "2026-11-26T06:20:00Z",
+  "ultimoControllo": "2026-11-26T06:20:00Z",
+  "controlli": 21,
   "esito": "parziale",
-  "messaggio": "Controllo del 25 novembre (18:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario; irregolarità del filobus 59 conclusa alle 13:01, ritardi su tram 3, 17, 24 (17 non è sul percorso previsto: da riverificare). Nessuno sciopero annunciato. Zoo: orario 9:00-16:00 confermato sul sito ufficiale. Da confermare: hrad.cz (403), Lokál (sito non raggiungibile), Planetum senza orari e posti per il 6/12.",
+  "messaggio": "Controllo del 26 novembre (7:00): nessuna nuova novità. PID: nessuna limitazione sulle linee dell'itinerario; filobus 59 regolare; tram 17 con ritardi in corso. Nessuno sciopero annunciato. Zoo 9:00-16:00 e mercatini 10:00-22:00 (dal 28/11) confermati. Da confermare: hrad.cz (403), Lokál, Planetum senza posti per il 6/12, dettaglio linee delle limitazioni tram 1-8/12.",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -41,18 +41,18 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-25T17:15:00Z",
+    "generale": "2026-11-26T06:20:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-25T17:15:00Z",
+    "d6-zoo": "2026-11-26T06:20:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
     "d8-mincovna": "2026-11-24T06:07:28Z",
     "d7-vytopna": "2026-11-24T06:07:28Z",
-    "d7-venceslao": "2026-11-23T11:20:00Z",
-    "d6-mercatino": "2026-11-23T11:20:00Z",
+    "d7-venceslao": "2026-11-26T06:20:00Z",
+    "d6-mercatino": "2026-11-26T06:20:00Z",
     "d7-castello": "2026-11-25T06:20:00Z",
     "d7-salita": "2026-11-24T06:07:28Z",
-    "d6-planetario": "2026-11-24T06:07:28Z"
+    "d6-planetario": "2026-11-26T06:20:00Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
@@ -99,8 +99,8 @@
     ]
   },
   "cambio": {
-    "eurCzk": 24.43,
-    "data": "2026-11-24",
+    "eurCzk": 24.44,
+    "data": "2026-11-25",
     "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
   },
   "stati": {
@@ -114,7 +114,7 @@
       ],
       "nota": "Domenica 6 tutti gli ingressi aperti, incluso Nord, biglietterie fino alle 15:30 (sito ufficiale).",
       "fonte": "https://www.zoopraha.cz/en/before-visit/opening-time",
-      "controllato": "2026-11-25T17:15:00Z"
+      "controllato": "2026-11-26T06:20:00Z"
     },
     "d6-zoo-seggiovia": {
       "giorno": "2026-12-06",
@@ -136,9 +136,9 @@
           "testo": "To Mars! 16:30 in programma"
         }
       ],
-      "nota": "Programma del 6 dicembre con To Mars! alle 16:30 sul sito; disponibilità posti non leggibile per singola replica: controllare su planetum.cz.",
+      "nota": "To Mars! alle 16:30 in programma il 6/12 sul sito; posti non leggibili: controllare su planetum.cz.",
       "fonte": "https://www.planetum.cz/en/",
-      "controllato": "2026-11-22T11:15:00Z"
+      "controllato": "2026-11-26T06:20:00Z"
     },
     "d8-mincovna": {
       "giorno": "2026-12-06",
