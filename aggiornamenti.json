@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-27T11:10:00Z",
-  "ultimoControllo": "2026-11-27T11:10:00Z",
-  "controlli": 25,
+  "generato": "2026-11-27T17:08:00Z",
+  "ultimoControllo": "2026-11-27T17:08:00Z",
+  "controlli": 26,
   "esito": "parziale",
-  "messaggio": "Controllo del 27 novembre (12:00): nessuna novità. Nessuna limitazione nuova sulle linee dell'itinerario (restano tram 26 sabato 5/12 9:30–18:00 Červený Vrch – Dědina e tram 15 nella notte 7–8/12), nessuno sciopero annunciato, Zoo 9:00–16:00 confermato, Lokál Dlouhá aperto domenica 11:00–22:00. Da confermare: hrad.cz (403), posti Planetum (pagina non leggibile).",
+  "messaggio": "Controllo del 27 novembre (18:00): nessuna novità. Confermati: tram 26 sabato 5/12 9:30–18:00 Červený Vrch – Dědina e tram 15 nella notte 7–8/12 (pid.cz, aggiornato il 26/11); nessuno sciopero annunciato; Zoo 9:00–16:00 (domenica 6 ingressi aperti fino alle 15:30); Mincovna senza chiusure a dicembre; funicolare del Petřín senza avvisi DPP; metro A Hradčanská ancora aperta (chiusura dal 16/1/2027). Da confermare: hrad.cz (403), posti Planetum (pagina non leggibile), meteo (nessuna previsione affidabile).",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -55,19 +55,20 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-27T11:10:00Z",
+    "generale": "2026-11-27T17:08:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-27T11:10:00Z",
+    "d6-zoo": "2026-11-27T17:08:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
-    "d8-mincovna": "2026-11-26T11:10:00Z",
+    "d8-mincovna": "2026-11-27T17:08:00Z",
     "d7-vytopna": "2026-11-26T11:10:00Z",
     "d7-venceslao": "2026-11-26T06:20:00Z",
     "d6-mercatino": "2026-11-26T06:20:00Z",
     "d7-castello": "2026-11-26T17:15:00Z",
     "d7-salita": "2026-11-24T06:07:28Z",
-    "d6-planetario": "2026-11-27T11:10:00Z",
-    "d8-lokal": "2026-11-27T11:10:00Z"
+    "d6-planetario": "2026-11-27T17:08:00Z",
+    "d8-lokal": "2026-11-27T11:10:00Z",
+    "d7-funicolare": "2026-11-27T17:08:00Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
@@ -129,7 +130,7 @@
       ],
       "nota": "Domenica 6 tutti gli ingressi aperti fino alle 15:30; il trenino dello zoo è temporaneamente fuori servizio (sito ufficiale).",
       "fonte": "https://www.zoopraha.cz/en/before-visit/opening-time",
-      "controllato": "2026-11-27T11:10:00Z"
+      "controllato": "2026-11-27T17:08:00Z"
     },
     "d6-zoo-seggiovia": {
       "giorno": "2026-12-06",
@@ -153,7 +154,7 @@
       ],
       "nota": "To Mars! alle 16:30 in programma il 6/12 sul sito; posti non leggibili: controllare su planetum.cz.",
       "fonte": "https://www.planetum.cz/en/",
-      "controllato": "2026-11-27T11:10:00Z"
+      "controllato": "2026-11-27T17:08:00Z"
     },
     "d8-mincovna": {
       "giorno": "2026-12-06",
@@ -165,7 +166,7 @@
       ],
       "nota": "Domenica 6 cucina fino alle 22:00, pausa cucina 16:00–17:00; martedì 8 aperto 11:30–23:00. Nessuna chiusura a dicembre.",
       "fonte": "https://www.restauracemincovna.cz/",
-      "controllato": "2026-11-26T11:10:00Z"
+      "controllato": "2026-11-27T17:08:00Z"
     },
     "d8-lokal": {
       "giorno": "2026-12-06",
@@ -210,9 +211,9 @@
           "testo": "Nessun avviso PID"
         }
       ],
-      "nota": "Nessuna limitazione attiva su pid.cz (fermo concluso il 13/11); orari da confermare su dpp.cz.",
+      "nota": "Nessun avviso su pid.cz e dpp.cz; orari da confermare su dpp.cz.",
       "fonte": "https://pid.cz/en/changes/",
-      "controllato": "2026-11-23T06:20:00Z"
+      "controllato": "2026-11-27T17:08:00Z"
     },
     "d7-vytopna": {
       "giorno": "2026-12-07",
