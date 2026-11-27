@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-27T06:15:00Z",
-  "ultimoControllo": "2026-11-27T06:15:00Z",
-  "controlli": 24,
+  "generato": "2026-11-27T11:10:00Z",
+  "ultimoControllo": "2026-11-27T11:10:00Z",
+  "controlli": 25,
   "esito": "parziale",
-  "messaggio": "Controllo del 27 novembre (7:00): nessuna novità rispetto a ieri sera. Nessuna limitazione nuova sulle linee dell'itinerario (restano tram 26 sabato 5/12 9:30–18:00 Červený Vrch – Dědina e tram 15 nella notte 7–8/12), nessuno sciopero annunciato, Zoo 9:00–16:00 confermato, To Mars! delle 16:30 il 6/12 in programma. Da confermare: hrad.cz (403), Lokál, posti Planetum.",
+  "messaggio": "Controllo del 27 novembre (12:00): nessuna novità. Nessuna limitazione nuova sulle linee dell'itinerario (restano tram 26 sabato 5/12 9:30–18:00 Červený Vrch – Dědina e tram 15 nella notte 7–8/12), nessuno sciopero annunciato, Zoo 9:00–16:00 confermato, Lokál Dlouhá aperto domenica 11:00–22:00. Da confermare: hrad.cz (403), posti Planetum (pagina non leggibile).",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -55,10 +55,10 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-27T06:15:00Z",
+    "generale": "2026-11-27T11:10:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-27T06:15:00Z",
+    "d6-zoo": "2026-11-27T11:10:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
     "d8-mincovna": "2026-11-26T11:10:00Z",
     "d7-vytopna": "2026-11-26T11:10:00Z",
@@ -66,7 +66,8 @@
     "d6-mercatino": "2026-11-26T06:20:00Z",
     "d7-castello": "2026-11-26T17:15:00Z",
     "d7-salita": "2026-11-24T06:07:28Z",
-    "d6-planetario": "2026-11-27T06:15:00Z"
+    "d6-planetario": "2026-11-27T11:10:00Z",
+    "d8-lokal": "2026-11-27T11:10:00Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
@@ -126,9 +127,9 @@
           "testo": "Aperto 9:00–16:00"
         }
       ],
-      "nota": "Domenica 6 tutti gli ingressi aperti, incluso Nord, biglietterie fino alle 15:30 (sito ufficiale).",
+      "nota": "Domenica 6 tutti gli ingressi aperti fino alle 15:30; il trenino dello zoo è temporaneamente fuori servizio (sito ufficiale).",
       "fonte": "https://www.zoopraha.cz/en/before-visit/opening-time",
-      "controllato": "2026-11-27T06:15:00Z"
+      "controllato": "2026-11-27T11:10:00Z"
     },
     "d6-zoo-seggiovia": {
       "giorno": "2026-12-06",
@@ -152,7 +153,7 @@
       ],
       "nota": "To Mars! alle 16:30 in programma il 6/12 sul sito; posti non leggibili: controllare su planetum.cz.",
       "fonte": "https://www.planetum.cz/en/",
-      "controllato": "2026-11-27T06:15:00Z"
+      "controllato": "2026-11-27T11:10:00Z"
     },
     "d8-mincovna": {
       "giorno": "2026-12-06",
@@ -170,12 +171,13 @@
       "giorno": "2026-12-06",
       "etichette": [
         {
-          "stato": "non-verificato",
-          "testo": "Orari non verificati"
+          "stato": "aperto",
+          "testo": "Aperto dom 11:00–22:00"
         }
       ],
-      "nota": "Sito non raggiungibile nel controllo.",
-      "controllato": "2026-11-21T06:09:25Z"
+      "nota": "Orario da scheda prague.eu (Lokál Dlouhááá, tutto l'anno: lun-sab 11:00–24:00, dom 11:00–22:00). Sito ufficiale non consultato.",
+      "controllato": "2026-11-27T11:10:00Z",
+      "fonte": "https://prague.eu/cs/objevujte/lokal-dlouhaaa/"
     },
     "d7-castello": {
       "giorno": "2026-12-07",
