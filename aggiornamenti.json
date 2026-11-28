@@ -5,11 +5,11 @@
     "a": "2026-12-09",
     "citta": "Praga"
   },
-  "generato": "2026-11-27T17:08:00Z",
-  "ultimoControllo": "2026-11-27T17:08:00Z",
-  "controlli": 26,
+  "generato": "2026-11-28T06:20:00Z",
+  "ultimoControllo": "2026-11-28T06:20:00Z",
+  "controlli": 27,
   "esito": "parziale",
-  "messaggio": "Controllo del 27 novembre (18:00): nessuna novità. Confermati: tram 26 sabato 5/12 9:30–18:00 Červený Vrch – Dědina e tram 15 nella notte 7–8/12 (pid.cz, aggiornato il 26/11); nessuno sciopero annunciato; Zoo 9:00–16:00 (domenica 6 ingressi aperti fino alle 15:30); Mincovna senza chiusure a dicembre; funicolare del Petřín senza avvisi DPP; metro A Hradčanská ancora aperta (chiusura dal 16/1/2027). Da confermare: hrad.cz (403), posti Planetum (pagina non leggibile), meteo (nessuna previsione affidabile).",
+  "messaggio": "Controllo del 28 novembre (7:00): nessuna novità. Confermati: tram 26 sabato 5/12 9:30–18:00 Červený Vrch – Dědina, tram 15 nella notte 7–8/12, tram 9 sospeso Žižkov – Ohrada fino al 18/12 (fuori percorso), metro A Flora chiusa (pid.cz); nessuno sciopero annunciato; Zoo 9:00–16:00; Castello edifici 9:00–17:00, guardia solenne 12:00, Vánoční putování dal 28/11; mercatini di Città Vecchia e San Venceslao dal 28/11, 10:00–22:00; Planetum mostra To Mars! del 6/12 con biglietti in vendita. Cambio CNB 24,44 (27/11). Da confermare: hrad.cz (403), orario esatto di To Mars!, meteo (nessuna previsione affidabile), siti del catalogo (Museo Nazionale, Museo Tecnico, Torre di Petřín, Lego non raggiungibili).",
   "novita": [
     {
       "id": "agg-20261119-prova",
@@ -55,20 +55,20 @@
     }
   ],
   "verificatoIl": {
-    "generale": "2026-11-27T17:08:00Z",
+    "generale": "2026-11-28T06:20:00Z",
     "t-vytopna": "2026-11-19T17:07:54Z",
     "t-zoo": "2026-11-21T06:09:25Z",
-    "d6-zoo": "2026-11-27T17:08:00Z",
+    "d6-zoo": "2026-11-28T06:20:00Z",
     "d6-mincovna": "2026-11-21T06:09:25Z",
     "d8-mincovna": "2026-11-27T17:08:00Z",
     "d7-vytopna": "2026-11-26T11:10:00Z",
-    "d7-venceslao": "2026-11-26T06:20:00Z",
-    "d6-mercatino": "2026-11-26T06:20:00Z",
-    "d7-castello": "2026-11-26T17:15:00Z",
+    "d7-venceslao": "2026-11-28T06:20:00Z",
+    "d6-mercatino": "2026-11-28T06:20:00Z",
+    "d7-castello": "2026-11-28T06:20:00Z",
     "d7-salita": "2026-11-24T06:07:28Z",
-    "d6-planetario": "2026-11-27T17:08:00Z",
+    "d6-planetario": "2026-11-28T06:20:00Z",
     "d8-lokal": "2026-11-27T11:10:00Z",
-    "d7-funicolare": "2026-11-27T17:08:00Z"
+    "d7-funicolare": "2026-11-28T06:20:00Z"
   },
   "domaniDaControllare": {
     "2026-12-05": [
@@ -83,6 +83,10 @@
       {
         "id": "generale",
         "testo": "Filobus 59: irregolarità segnalata da pid.cz il 25/11 e conclusa alle 13:01 dello stesso giorno. Riverificare prima di usarlo."
+      },
+      {
+        "id": "generale",
+        "testo": "Metro A: stazione Flora chiusa fino a nuovo avviso (non sul percorso). Tram 9 sospeso Žižkov Nákladové nádraží – Ohrada fino al 18/12."
       }
     ],
     "2026-12-06": [
@@ -115,8 +119,8 @@
     ]
   },
   "cambio": {
-    "eurCzk": 24.46,
-    "data": "2026-11-26",
+    "eurCzk": 24.44,
+    "data": "2026-11-27",
     "fonte": "https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/"
   },
   "stati": {
@@ -130,7 +134,7 @@
       ],
       "nota": "Domenica 6 tutti gli ingressi aperti fino alle 15:30; il trenino dello zoo è temporaneamente fuori servizio (sito ufficiale).",
       "fonte": "https://www.zoopraha.cz/en/before-visit/opening-time",
-      "controllato": "2026-11-27T17:08:00Z"
+      "controllato": "2026-11-28T06:20:00Z"
     },
     "d6-zoo-seggiovia": {
       "giorno": "2026-12-06",
@@ -148,13 +152,13 @@
       "giorno": "2026-12-06",
       "etichette": [
         {
-          "stato": "non-verificato",
-          "testo": "To Mars! 16:30 in programma"
+          "stato": "prenotabile",
+          "testo": "To Mars! 6/12, biglietti in vendita"
         }
       ],
-      "nota": "To Mars! alle 16:30 in programma il 6/12 sul sito; posti non leggibili: controllare su planetum.cz.",
+      "nota": "Home di planetum.cz: To Mars! il 6/12 con biglietti in vendita; ora e posti non leggibili, confermare 16:30.",
       "fonte": "https://www.planetum.cz/en/",
-      "controllato": "2026-11-27T17:08:00Z"
+      "controllato": "2026-11-28T06:20:00Z"
     },
     "d8-mincovna": {
       "giorno": "2026-12-06",
@@ -190,7 +194,7 @@
       ],
       "nota": "Edifici 9:00–17:00 e guardia solenne 12:00 (prague.eu). Vánoční putování lun 7 dic 14:00–18:00 (gratis). hrad.cz non raggiungibile.",
       "fonte": "https://prague.eu/cs/objevujte/prazsky-hrad/",
-      "controllato": "2026-11-26T17:15:00Z"
+      "controllato": "2026-11-28T06:20:00Z"
     },
     "d7-vikarka": {
       "giorno": "2026-12-07",
@@ -211,9 +215,9 @@
           "testo": "Nessun avviso PID"
         }
       ],
-      "nota": "Nessun avviso su pid.cz e dpp.cz; orari da confermare su dpp.cz.",
+      "nota": "Riaperta il 22/9 con vetture nuove; nessun avviso su pid.cz e dpp.cz. Orari da confermare su dpp.cz.",
       "fonte": "https://pid.cz/en/changes/",
-      "controllato": "2026-11-27T17:08:00Z"
+      "controllato": "2026-11-28T06:20:00Z"
     },
     "d7-vytopna": {
       "giorno": "2026-12-07",
